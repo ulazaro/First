@@ -1,0 +1,67 @@
+body {
+   
+    background: black;
+    
+}
+
+table{
+    font-size: large;
+    align-items: center;;
+    }
+
+.fundo{
+
+    background-color:black;
+    color: black ;
+    width:1190px; 
+    padding: 10px;
+    
+    }
+
+a {
+ 
+    padding: 5px;
+    color:khaki;
+
+}
+
+
+#headback{
+    background: rgb(248, 246, 223);
+    
+    border:rgb(45, 65, 52);
+
+}
+
+#conteudo {
+
+    background:khaki;
+    padding: 18px;
+    width: 1175px;
+}
+#rodape{
+
+background:khaki;
+padding: 19px;
+
+
+}
+h2{
+
+    size: 1.2em;
+    color:rgb(48, 44, 44);
+}
+
+p{
+    padding: -200px;
+}
+
+hr{
+    border-color: black;
+}
+
+.imagenscamp {
+
+    border: 5px solid black
+}
+
